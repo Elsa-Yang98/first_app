@@ -1,3 +1,3 @@
 # first_app on some airbnb locations
-[python project for designing an app
+[app at streamlit
 ](https://elsa-yang98-first-app-streamlit-app-bj3m6u.streamlit.app/)
